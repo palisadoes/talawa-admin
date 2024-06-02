@@ -26,4 +26,4 @@
 
 #### Defined in
 
-[src/components/UserPortal/PeopleCard/PeopleCard.tsx:12](https://github.com/PalisadoesFoundation/talawa-admin/blob/12d9229/src/components/UserPortal/PeopleCard/PeopleCard.tsx#L12)
+[src/components/UserPortal/PeopleCard/PeopleCard.tsx:14](https://github.com/palisadoes/talawa-admin/blob/bf9852d/src/components/UserPortal/PeopleCard/PeopleCard.tsx#L14)
